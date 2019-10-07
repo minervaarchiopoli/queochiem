@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://maichahjoh.zoppelt.net/sitemap.xml
